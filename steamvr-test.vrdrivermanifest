@@ -1,0 +1,11 @@
+{
+	"alwaysActivate": true,
+	"name" : "SteamVR Test",
+	"directory" : "",
+	"resourceOnly" : false,
+
+	"hmd_presence" :
+	[
+		"*.*"
+	]
+}
