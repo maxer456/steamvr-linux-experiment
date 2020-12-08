@@ -1,6 +1,6 @@
 {
 	"alwaysActivate": true,
-	"name" : "SteamVR Test",
+	"name" : "steamvr-test",
 	"directory" : "",
 	"resourceOnly" : false,
 
